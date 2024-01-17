@@ -1,0 +1,8 @@
+recalibrated and updated on 20/05/2023
+
+ADC_GAIN = 0.3827
+GAIN2 = 0.9967665
+
+
+
+https://github.com/LLL2542/BQ76920/blob/main/BQ76920.c
