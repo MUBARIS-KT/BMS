@@ -1,4 +1,4 @@
-Battery Management System
+#Battery Management System
 This project provides code for a Battery Management System (BMS) using Texas Instruments' BQ76940 module with STM32 microcontrollers. Implemented in the STM32 HAL library, this BMS is designed to monitor and manage essential battery parameters, providing reliable protections and ensuring efficient battery operation.
 
 Features
